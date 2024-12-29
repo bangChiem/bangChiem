@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bang</h1>
-<h3 align="center">A passionate fullstack developer studying Computer Science as The College of New Jersey</h3>
+<h3 align="center">A passionate fullstack developer studying Computer Science at The College of New Jersey</h3>
 
 - 🔭 I’m currently working on [Active Learning for Natural Language Processing](https://github.com/demetribic/AL_NLP)
 
