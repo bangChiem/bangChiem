@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Active Learning for Natural Language Processing](https://github.com/demetribic/AL_NLP)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **bangchiem40@gmail.com**
 
